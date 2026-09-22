@@ -1,0 +1,406 @@
+town,destination,typical_minutes,fastest_minutes,via_station,peak_departures,limited_service,contains_destination
+Abington,backbay,46,44,Abington,4,no,no
+Abington,downtown,39,38,Abington,3,no,no
+Abington,kendall,46,44,Abington,3,no,no
+Abington,longwood,63,59,Abington,3,no,no
+Abington,seaport,42,42,Abington,3,no,no
+Acton,backbay,68,49,South Acton,6,no,no
+Acton,downtown,58,41,South Acton,6,no,no
+Acton,kendall,53,37,South Acton,5,no,no
+Acton,longwood,81,63,South Acton,6,no,no
+Acton,seaport,64,48,South Acton,6,no,no
+Andover,backbay,51,47,Ballardvale,2,yes,no
+Andover,downtown,43,39,Ballardvale,2,yes,no
+Andover,kendall,56,53,Ballardvale,2,yes,no
+Andover,longwood,72,69,Ballardvale,2,yes,no
+Andover,seaport,54,50,Ballardvale,2,yes,no
+Ashland,backbay,50,46,Ashland,6,no,no
+Ashland,downtown,56,52,Ashland,6,no,no
+Ashland,kendall,64,60,Ashland,6,no,no
+Ashland,longwood,84,76,Ashland,6,no,no
+Ashland,seaport,58,56,Ashland,6,no,no
+Attleboro,backbay,49,43,Attleboro,7,no,no
+Attleboro,downtown,54,47,Attleboro,7,no,no
+Attleboro,kendall,61,56,Attleboro,5,no,no
+Attleboro,longwood,77,72,Attleboro,5,no,no
+Attleboro,seaport,56,51,Attleboro,7,no,no
+Ayer,backbay,80,63,Ayer,4,no,no
+Ayer,downtown,72,55,Ayer,4,no,no
+Ayer,kendall,67,51,Ayer,3,no,no
+Ayer,longwood,92,77,Ayer,4,no,no
+Ayer,seaport,78,62,Ayer,4,no,no
+Belmont,backbay,30,28,Belmont,3,no,no
+Belmont,downtown,21,21,Belmont,3,no,no
+Belmont,kendall,16,16,Belmont,2,yes,no
+Belmont,longwood,44,39,Belmont,3,no,no
+Belmont,seaport,27,26,Belmont,3,no,no
+Beverly,backbay,52,47,Beverly,8,no,no
+Beverly,downtown,42,41,Beverly,8,no,no
+Beverly,kendall,54,49,Beverly,8,no,no
+Beverly,longwood,69,63,Beverly,8,no,no
+Beverly,seaport,54,50,Beverly,8,no,no
+Billerica,backbay,51,48,North Billerica,8,no,no
+Billerica,downtown,42,39,North Billerica,9,no,no
+Billerica,kendall,56,49,North Billerica,8,no,no
+Billerica,longwood,68,63,North Billerica,8,no,no
+Billerica,seaport,52,50,North Billerica,8,no,no
+Boston,backbay,0,0,Back Bay,25,no,yes
+Boston,downtown,0,0,Downtown Crossing,25,no,yes
+Boston,kendall,2,2,Charles/MGH,27,no,no
+Boston,longwood,0,0,Longwood Medical Area,27,no,yes
+Boston,seaport,0,0,Courthouse,25,no,yes
+Braintree,backbay,32,28,Braintree,25,no,no
+Braintree,downtown,25,23,Braintree,24,no,no
+Braintree,kendall,33,31,Braintree,23,no,no
+Braintree,longwood,48,45,Braintree,22,no,no
+Braintree,seaport,28,25,Braintree,24,no,no
+Bridgewater,backbay,60,57,Bridgewater,4,no,no
+Bridgewater,downtown,53,52,Bridgewater,4,no,no
+Bridgewater,kendall,61,60,Bridgewater,4,no,no
+Bridgewater,longwood,76,74,Bridgewater,4,no,no
+Bridgewater,seaport,56,54,Bridgewater,4,no,no
+Brockton,backbay,45,42,Montello,4,no,no
+Brockton,downtown,38,37,Montello,4,no,no
+Brockton,kendall,46,45,Montello,4,no,no
+Brockton,longwood,62,59,Montello,4,no,no
+Brockton,seaport,41,39,Montello,4,no,no
+Brookline,backbay,26,24,Saint Mary's Street,26,no,no
+Brookline,downtown,21,19,Saint Mary's Street,26,no,no
+Brookline,kendall,23,21,Saint Mary's Street,26,no,no
+Brookline,longwood,0,0,Longwood,26,no,yes
+Brookline,seaport,24,21,Saint Mary's Street,26,no,no
+Cambridge,backbay,12,10,Kendall/MIT,28,no,no
+Cambridge,downtown,6,6,Kendall/MIT,28,no,no
+Cambridge,kendall,0,0,Kendall/MIT,27,no,yes
+Cambridge,longwood,26,22,Kendall/MIT,27,no,no
+Cambridge,seaport,10,8,Kendall/MIT,29,no,no
+Canton,backbay,26,24,Canton Junction,10,no,no
+Canton,downtown,31,28,Canton Junction,10,no,no
+Canton,kendall,38,35,Canton Junction,8,no,no
+Canton,longwood,58,50,Canton Junction,8,no,no
+Canton,seaport,35,31,Canton Junction,11,no,no
+Chelsea,backbay,22,17,Box District,20,no,no
+Chelsea,downtown,18,13,Box District,19,no,no
+Chelsea,kendall,26,20,Box District,20,no,no
+Chelsea,longwood,39,34,Box District,21,no,no
+Chelsea,seaport,22,19,Box District,18,no,no
+Cohasset,backbay,53,51,Cohasset,4,no,no
+Cohasset,downtown,47,46,Cohasset,4,no,no
+Cohasset,kendall,57,55,Cohasset,4,no,no
+Cohasset,longwood,74,73,Cohasset,4,no,no
+Cohasset,seaport,51,48,Cohasset,4,no,no
+Concord,backbay,59,56,Concord,5,no,no
+Concord,downtown,49,49,Concord,5,no,no
+Concord,kendall,54,44,Concord,4,no,no
+Concord,longwood,72,67,Concord,5,no,no
+Concord,seaport,55,54,Concord,5,no,no
+Dedham,backbay,23,23,Endicott,7,no,no
+Dedham,downtown,29,27,Endicott,7,no,no
+Dedham,kendall,39,34,Endicott,8,no,no
+Dedham,longwood,54,50,Endicott,8,no,no
+Dedham,seaport,34,30,Endicott,9,no,no
+Fall River,backbay,108,101,Fall River Depot,3,no,no
+Fall River,downtown,103,93,Fall River Depot,3,no,no
+Fall River,kendall,111,101,Fall River Depot,3,no,no
+Fall River,longwood,128,115,Fall River Depot,3,no,no
+Fall River,seaport,106,95,Fall River Depot,3,no,no
+Fitchburg,backbay,98,83,Fitchburg,3,no,no
+Fitchburg,downtown,91,75,Fitchburg,3,no,no
+Fitchburg,kendall,79,71,Fitchburg,2,yes,no
+Fitchburg,longwood,109,97,Fitchburg,3,no,no
+Fitchburg,seaport,97,82,Fitchburg,3,no,no
+Foxborough,backbay,52,52,Foxboro,1,yes,no
+Foxborough,downtown,58,58,Foxboro,1,yes,no
+Foxborough,kendall,69,68,Foxboro,2,yes,no
+Foxborough,longwood,84,83,Foxboro,2,yes,no
+Foxborough,seaport,66,64,Foxboro,2,yes,no
+Framingham,backbay,51,35,Framingham,11,no,no
+Framingham,downtown,57,41,Framingham,11,no,no
+Framingham,kendall,67,49,Framingham,11,no,no
+Framingham,longwood,82,66,Framingham,9,no,no
+Framingham,seaport,58,44,Framingham,11,no,no
+Franklin,backbay,57,56,Franklin,4,no,no
+Franklin,downtown,62,61,Franklin,4,no,no
+Franklin,kendall,69,68,Franklin,3,no,no
+Franklin,longwood,85,83,Franklin,3,no,no
+Franklin,seaport,66,63,Franklin,4,no,no
+Freetown,backbay,101,94,Freetown,3,no,no
+Freetown,downtown,96,86,Freetown,3,no,no
+Freetown,kendall,104,94,Freetown,3,no,no
+Freetown,longwood,121,108,Freetown,3,no,no
+Freetown,seaport,99,88,Freetown,3,no,no
+Gloucester,backbay,74,72,West Gloucester,2,yes,no
+Gloucester,downtown,66,65,West Gloucester,2,yes,no
+Gloucester,kendall,77,76,West Gloucester,2,yes,no
+Gloucester,longwood,90,89,West Gloucester,2,yes,no
+Gloucester,seaport,76,76,West Gloucester,2,yes,no
+Grafton,backbay,70,66,Grafton,6,no,no
+Grafton,downtown,76,72,Grafton,6,no,no
+Grafton,kendall,84,80,Grafton,6,no,no
+Grafton,longwood,104,96,Grafton,6,no,no
+Grafton,seaport,78,75,Grafton,6,no,no
+Halifax,backbay,60,59,Halifax,4,no,no
+Halifax,downtown,54,53,Halifax,3,no,no
+Halifax,kendall,61,58,Halifax,3,no,no
+Halifax,longwood,78,73,Halifax,3,no,no
+Halifax,seaport,57,56,Halifax,3,no,no
+Hamilton,backbay,62,57,Hamilton/Wenham,3,no,no
+Hamilton,downtown,52,51,Hamilton/Wenham,3,no,no
+Hamilton,kendall,62,59,Hamilton/Wenham,3,no,no
+Hamilton,longwood,77,73,Hamilton/Wenham,3,no,no
+Hamilton,seaport,61,60,Hamilton/Wenham,3,no,no
+Hanson,backbay,55,53,Hanson,4,no,no
+Hanson,downtown,48,47,Hanson,3,no,no
+Hanson,kendall,55,53,Hanson,3,no,no
+Hanson,longwood,72,68,Hanson,3,no,no
+Hanson,seaport,51,51,Hanson,3,no,no
+Haverhill,backbay,70,66,Bradford,2,yes,no
+Haverhill,downtown,62,58,Bradford,2,yes,no
+Haverhill,kendall,76,72,Bradford,2,yes,no
+Haverhill,longwood,90,88,Bradford,2,yes,no
+Haverhill,seaport,72,69,Bradford,2,yes,no
+Hingham,backbay,45,43,West Hingham,4,no,no
+Hingham,downtown,39,38,West Hingham,4,no,no
+Hingham,kendall,49,47,West Hingham,4,no,no
+Hingham,longwood,66,65,West Hingham,4,no,no
+Hingham,seaport,43,40,West Hingham,4,no,no
+Ipswich,backbay,69,63,Ipswich,3,no,no
+Ipswich,downtown,58,57,Ipswich,3,no,no
+Ipswich,kendall,68,65,Ipswich,3,no,no
+Ipswich,longwood,83,79,Ipswich,3,no,no
+Ipswich,seaport,67,66,Ipswich,3,no,no
+Kingston,backbay,70,68,Kingston,4,no,no
+Kingston,downtown,63,62,Kingston,3,no,no
+Kingston,kendall,70,67,Kingston,3,no,no
+Kingston,longwood,87,82,Kingston,3,no,no
+Kingston,seaport,66,65,Kingston,3,no,no
+Lawrence,backbay,67,59,Lawrence,3,no,no
+Lawrence,downtown,59,51,Lawrence,3,no,no
+Lawrence,kendall,72,65,Lawrence,3,no,no
+Lawrence,longwood,86,81,Lawrence,3,no,no
+Lawrence,seaport,69,62,Lawrence,3,no,no
+Leominster,backbay,91,76,North Leominster,3,no,no
+Leominster,downtown,84,68,North Leominster,3,no,no
+Leominster,kendall,72,64,North Leominster,2,yes,no
+Leominster,longwood,102,90,North Leominster,3,no,no
+Leominster,seaport,90,75,North Leominster,3,no,no
+Lincoln,backbay,52,50,Lincoln,3,no,no
+Lincoln,downtown,43,43,Lincoln,3,no,no
+Lincoln,kendall,38,38,Lincoln,2,yes,no
+Lincoln,longwood,66,61,Lincoln,3,no,no
+Lincoln,seaport,49,48,Lincoln,3,no,no
+Littleton,backbay,73,55,Littleton/Route 495,5,no,no
+Littleton,downtown,64,47,Littleton/Route 495,5,no,no
+Littleton,kendall,59,43,Littleton/Route 495,4,no,no
+Littleton,longwood,87,69,Littleton/Route 495,5,no,no
+Littleton,seaport,69,54,Littleton/Route 495,5,no,no
+Lowell,backbay,58,56,Lowell,4,no,no
+Lowell,downtown,47,47,Lowell,5,no,no
+Lowell,kendall,62,57,Lowell,4,no,no
+Lowell,longwood,75,71,Lowell,4,no,no
+Lowell,seaport,58,58,Lowell,4,no,no
+Lynn,backbay,38,33,Lynn Interim,8,no,no
+Lynn,downtown,28,27,Lynn Interim,8,no,no
+Lynn,kendall,40,35,Lynn Interim,8,no,no
+Lynn,longwood,54,49,Lynn Interim,8,no,no
+Lynn,seaport,40,36,Lynn Interim,8,no,no
+Malden,backbay,19,19,Malden Center,24,no,no
+Malden,downtown,11,11,Malden Center,25,no,no
+Malden,kendall,24,21,Oak Grove,24,no,no
+Malden,longwood,39,36,Oak Grove,23,no,no
+Malden,seaport,21,18,Oak Grove,24,no,no
+Manchester-by-the-Sea,backbay,69,65,Manchester,3,no,no
+Manchester-by-the-Sea,downtown,59,59,Manchester,3,no,no
+Manchester-by-the-Sea,kendall,71,70,Manchester,3,no,no
+Manchester-by-the-Sea,longwood,85,82,Manchester,3,no,no
+Manchester-by-the-Sea,seaport,70,70,Manchester,3,no,no
+Mansfield,backbay,39,33,Mansfield,7,no,no
+Mansfield,downtown,44,37,Mansfield,7,no,no
+Mansfield,kendall,51,46,Mansfield,5,no,no
+Mansfield,longwood,67,62,Mansfield,5,no,no
+Mansfield,seaport,46,41,Mansfield,7,no,no
+Medford,backbay,16,16,Wellington,24,no,no
+Medford,downtown,8,8,Wellington,25,no,no
+Medford,kendall,21,18,Wellington,24,no,no
+Medford,longwood,36,32,Wellington,24,no,no
+Medford,seaport,18,14,Wellington,25,no,no
+Melrose,backbay,24,23,Wyoming Hill,3,no,no
+Melrose,downtown,16,15,Wyoming Hill,3,no,no
+Melrose,kendall,29,28,Wyoming Hill,3,no,no
+Melrose,longwood,44,42,Wyoming Hill,3,no,no
+Melrose,seaport,27,24,Wyoming Hill,3,no,no
+Middleborough,backbay,71,68,Middleborough,4,no,no
+Middleborough,downtown,64,63,Middleborough,4,no,no
+Middleborough,kendall,72,71,Middleborough,4,no,no
+Middleborough,longwood,88,85,Middleborough,4,no,no
+Middleborough,seaport,67,65,Middleborough,4,no,no
+Milton,backbay,34,26,Milton,27,no,no
+Milton,downtown,26,20,Milton,26,no,no
+Milton,kendall,35,28,Milton,25,no,no
+Milton,longwood,52,42,Milton,24,no,no
+Milton,seaport,30,22,Milton,26,no,no
+Natick,backbay,44,40,Natick Center,6,no,no
+Natick,downtown,49,46,Natick Center,6,no,no
+Natick,kendall,57,53,Natick Center,6,no,no
+Natick,longwood,72,61,West Natick,8,no,no
+Natick,seaport,52,47,Natick Center,6,no,no
+Needham,backbay,28,27,Hersey,3,no,no
+Needham,downtown,34,31,Hersey,3,no,no
+Needham,kendall,42,41,Hersey,4,no,no
+Needham,longwood,58,56,Hersey,4,no,no
+Needham,seaport,37,37,Hersey,3,no,no
+New Bedford,backbay,100,97,Church Street,3,no,no
+New Bedford,downtown,94,92,Church Street,3,no,no
+New Bedford,kendall,102,100,Church Street,3,no,no
+New Bedford,longwood,117,116,Church Street,3,no,no
+New Bedford,seaport,97,95,Church Street,3,no,no
+Newburyport,backbay,82,76,Newburyport,3,no,no
+Newburyport,downtown,71,70,Newburyport,3,no,no
+Newburyport,kendall,81,78,Newburyport,3,no,no
+Newburyport,longwood,96,92,Newburyport,3,no,no
+Newburyport,seaport,80,79,Newburyport,3,no,no
+Newton,backbay,20,16,Newtonville,5,no,no
+Newton,downtown,26,22,Newtonville,5,no,no
+Newton,kendall,33,32,Newtonville,5,no,no
+Newton,longwood,14,13,Chestnut Hill,26,no,no
+Newton,seaport,28,23,Newtonville,5,no,no
+Norfolk,backbay,50,49,Norfolk,4,no,no
+Norfolk,downtown,55,54,Norfolk,4,no,no
+Norfolk,kendall,62,61,Norfolk,3,no,no
+Norfolk,longwood,78,76,Norfolk,3,no,no
+Norfolk,seaport,58,56,Norfolk,4,no,no
+Norwood,backbay,32,32,Norwood Depot,8,no,no
+Norwood,downtown,38,36,Norwood Depot,8,no,no
+Norwood,kendall,47,43,Norwood Depot,7,no,no
+Norwood,longwood,61,59,Norwood Depot,7,no,no
+Norwood,seaport,43,39,Norwood Depot,9,no,no
+Quincy,backbay,24,20,North Quincy,27,no,no
+Quincy,downtown,14,14,North Quincy,27,no,no
+Quincy,kendall,22,22,North Quincy,27,no,no
+Quincy,longwood,42,36,North Quincy,25,no,no
+Quincy,seaport,20,15,North Quincy,27,no,no
+Randolph,backbay,39,36,Holbrook/Randolph,4,no,no
+Randolph,downtown,32,31,Holbrook/Randolph,4,no,no
+Randolph,kendall,40,39,Holbrook/Randolph,4,no,no
+Randolph,longwood,56,53,Holbrook/Randolph,4,no,no
+Randolph,seaport,35,33,Holbrook/Randolph,4,no,no
+Reading,backbay,40,38,Reading,4,no,no
+Reading,downtown,32,30,Reading,4,no,no
+Reading,kendall,44,43,Reading,4,no,no
+Reading,longwood,60,57,Reading,4,no,no
+Reading,seaport,42,39,Reading,4,no,no
+Revere,backbay,21,18,Beachmont,26,no,no
+Revere,downtown,17,14,Beachmont,26,no,no
+Revere,kendall,25,21,Beachmont,26,no,no
+Revere,longwood,40,36,Beachmont,25,no,no
+Revere,seaport,23,19,Beachmont,27,no,no
+Rowley,backbay,75,69,Rowley,3,no,no
+Rowley,downtown,64,63,Rowley,3,no,no
+Rowley,kendall,74,71,Rowley,3,no,no
+Rowley,longwood,89,85,Rowley,3,no,no
+Rowley,seaport,73,72,Rowley,3,no,no
+Salem,backbay,48,43,Salem,8,no,no
+Salem,downtown,38,37,Salem,8,no,no
+Salem,kendall,50,45,Salem,8,no,no
+Salem,longwood,66,59,Salem,8,no,no
+Salem,seaport,50,46,Salem,8,no,no
+Scituate,backbay,59,59,North Scituate,3,no,no
+Scituate,downtown,54,53,North Scituate,3,no,no
+Scituate,kendall,64,62,North Scituate,3,no,no
+Scituate,longwood,81,80,North Scituate,3,no,no
+Scituate,seaport,58,55,North Scituate,3,no,no
+Sharon,backbay,30,24,Sharon,7,no,no
+Sharon,downtown,35,28,Sharon,7,no,no
+Sharon,kendall,42,37,Sharon,6,no,no
+Sharon,longwood,59,53,Sharon,6,no,no
+Sharon,seaport,37,32,Sharon,7,no,no
+Somerville,backbay,14,14,Assembly,24,no,no
+Somerville,downtown,6,6,Assembly,24,no,no
+Somerville,kendall,11,11,Davis,26,no,no
+Somerville,longwood,34,30,Assembly,23,no,no
+Somerville,seaport,16,12,Assembly,25,no,no
+Southborough,backbay,54,52,Southborough,6,no,no
+Southborough,downtown,60,58,Southborough,6,no,no
+Southborough,kendall,68,65,Southborough,6,no,no
+Southborough,longwood,88,81,Southborough,6,no,no
+Southborough,seaport,66,61,Southborough,6,no,no
+Stoughton,backbay,35,34,Stoughton,2,yes,no
+Stoughton,downtown,40,38,Stoughton,2,yes,no
+Stoughton,kendall,47,45,Stoughton,3,no,no
+Stoughton,longwood,65,60,Stoughton,3,no,no
+Stoughton,seaport,45,41,Stoughton,3,no,no
+Swampscott,backbay,41,36,Swampscott,7,no,no
+Swampscott,downtown,31,30,Swampscott,7,no,no
+Swampscott,kendall,42,38,Swampscott,7,no,no
+Swampscott,longwood,56,52,Swampscott,7,no,no
+Swampscott,seaport,41,39,Swampscott,7,no,no
+Taunton,backbay,82,79,East Taunton,3,no,no
+Taunton,downtown,74,74,East Taunton,3,no,no
+Taunton,kendall,82,82,East Taunton,3,no,no
+Taunton,longwood,98,96,East Taunton,3,no,no
+Taunton,seaport,77,76,East Taunton,3,no,no
+Wakefield,backbay,30,29,Greenwood,3,no,no
+Wakefield,downtown,22,21,Greenwood,3,no,no
+Wakefield,kendall,35,34,Greenwood,3,no,no
+Wakefield,longwood,50,48,Greenwood,3,no,no
+Wakefield,seaport,33,30,Greenwood,3,no,no
+Walpole,backbay,43,42,Walpole,5,no,no
+Walpole,downtown,48,47,Walpole,5,no,no
+Walpole,kendall,54,54,Walpole,3,no,no
+Walpole,longwood,70,69,Walpole,3,no,no
+Walpole,seaport,51,49,Walpole,5,no,no
+Waltham,backbay,53,35,Waltham,6,no,no
+Waltham,downtown,44,28,Waltham,6,no,no
+Waltham,kendall,41,24,Waltham,4,no,no
+Waltham,longwood,66,46,Waltham,6,no,no
+Waltham,seaport,49,34,Waltham,6,no,no
+Wellesley,backbay,32,27,Wellesley Farms,6,no,no
+Wellesley,downtown,38,33,Wellesley Farms,6,no,no
+Wellesley,kendall,46,43,Wellesley Farms,6,no,no
+Wellesley,longwood,67,59,Wellesley Farms,4,no,no
+Wellesley,seaport,40,34,Wellesley Farms,6,no,no
+Westborough,backbay,70,61,Westborough,6,no,no
+Westborough,downtown,76,67,Westborough,6,no,no
+Westborough,kendall,84,74,Westborough,6,no,no
+Westborough,longwood,104,90,Westborough,6,no,no
+Westborough,seaport,78,70,Westborough,6,no,no
+Weston,backbay,46,43,Kendal Green,3,no,no
+Weston,downtown,36,36,Kendal Green,3,no,no
+Weston,kendall,32,32,Kendal Green,2,yes,no
+Weston,longwood,59,54,Kendal Green,3,no,no
+Weston,seaport,42,42,Kendal Green,3,no,no
+Westwood,backbay,24,19,Route 128,10,no,no
+Westwood,downtown,29,23,Route 128,10,no,no
+Westwood,kendall,33,30,Route 128,9,no,no
+Westwood,longwood,54,45,Route 128,9,no,no
+Westwood,seaport,33,26,Route 128,11,no,no
+Weymouth,backbay,34,33,Weymouth Landing/East Braintree,4,no,no
+Weymouth,downtown,28,28,Weymouth Landing/East Braintree,4,no,no
+Weymouth,kendall,38,37,Weymouth Landing/East Braintree,4,no,no
+Weymouth,longwood,56,54,Weymouth Landing/East Braintree,4,no,no
+Weymouth,seaport,32,30,Weymouth Landing/East Braintree,4,no,no
+Whitman,backbay,50,48,Whitman,4,no,no
+Whitman,downtown,43,42,Whitman,3,no,no
+Whitman,kendall,50,48,Whitman,3,no,no
+Whitman,longwood,67,63,Whitman,3,no,no
+Whitman,seaport,46,46,Whitman,3,no,no
+Wilmington,backbay,43,40,Wilmington,7,no,no
+Wilmington,downtown,35,31,Wilmington,9,no,no
+Wilmington,kendall,48,41,Wilmington,7,no,no
+Wilmington,longwood,61,55,Wilmington,7,no,no
+Wilmington,seaport,44,42,Wilmington,7,no,no
+Winchester,backbay,30,27,Wedgemere,7,no,no
+Winchester,downtown,20,18,Wedgemere,8,no,no
+Winchester,kendall,35,28,Wedgemere,7,no,no
+Winchester,longwood,48,42,Wedgemere,7,no,no
+Winchester,seaport,31,29,Wedgemere,7,no,no
+Woburn,backbay,39,36,Anderson/Woburn,7,no,no
+Woburn,downtown,30,26,Anderson/Woburn,9,no,no
+Woburn,kendall,43,37,Anderson/Woburn,7,no,no
+Woburn,longwood,56,51,Anderson/Woburn,7,no,no
+Woburn,seaport,39,38,Anderson/Woburn,7,no,no
+Worcester,backbay,79,64,Worcester,4,no,no
+Worcester,downtown,84,70,Worcester,4,no,no
+Worcester,kendall,92,78,Worcester,4,no,no
+Worcester,longwood,110,95,Worcester,4,no,no
+Worcester,seaport,88,73,Worcester,4,no,no
